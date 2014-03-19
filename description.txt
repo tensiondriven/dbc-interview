@@ -1,0 +1,9 @@
+Hi Jonathan,
+
+The technical interview will focus on either Ruby or JavaScript depending on your choice - it will be technical with pairing. Something along the lines of "lets build a todo app in Rails / JavaScript".
+
+The Teaching Demo will be 30 minutes of presentation followed by 20 minutes of Q&A -  JavaScript Closures or OO JavaScript.
+
+Hope this helps! We look forward to seeing you on Thursday at 1:30 PM PDT.
+
+
